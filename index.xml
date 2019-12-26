@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlo Biffi on Carlo Biffi</title>
+    <link>https://carlobiffi.github.io/</link>
+    <description>Recent content in Carlo Biffi on Carlo Biffi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Article Name</title>
+      <link>https://carlobiffi.github.io/post/my-article-name/</link>
+      <pubDate>Sat, 22 Dec 2018 19:09:34 +0000</pubDate>
+      
+      <guid>https://carlobiffi.github.io/post/my-article-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Interpretable Anatomical Features Through Deep Generative Models: Application to Cardiac Remodeling</title>
+      <link>https://carlobiffi.github.io/publication/miccai2018/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlobiffi.github.io/publication/miccai2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-Dimensional Cardiovascular Imaging-Genetics: A Mass Univariate Framework</title>
+      <link>https://carlobiffi.github.io/publication/bio2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlobiffi.github.io/publication/bio2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explainable Anatomical Shape Analysis through Deep Hierarchical Generative Models</title>
+      <link>https://carlobiffi.github.io/publication/tmi2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlobiffi.github.io/publication/tmi2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
